@@ -21,6 +21,12 @@ public class Program {
 		System.out.println(Arrays.toString(newList.toArray()));
 		
 		System.out.println("------------------------------");
+		
+		int x =20;
+		int t =30;
+		
+		int soma=x+t;
+		System.out.println("SOMA = "+soma);
 
 	}
 
