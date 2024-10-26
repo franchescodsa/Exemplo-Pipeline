@@ -19,6 +19,8 @@ public class Program {
 		.map(x -> x * 10)
 		.collect(Collectors.toList());
 		System.out.println(Arrays.toString(newList.toArray()));
+		
+		System.out.println("------------------------------");
 
 	}
 
